@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestProject</string>
+
+    <string name="title_main_activity">Movies</string>
+    <string name="toast_movies_dis">Peliculas disponibles: %d</string>
+    <string name="ms_loading">Loading...</string>
+    <string name="ms_ok">Ok</string>
+</resources>
